@@ -1,0 +1,15 @@
+Requisitos para Tablas
+1 es tener encabezados
+2 tener datos homogenios debajo del ecabezado
+3 no tengamos espacios o filas en blanco
+
+Proceso para hacer una tabla
+1 colocarnos en una celda dentro de la tabla
+2 ir a pestaña insertar, grupo tabla, comando tabla
+3 aceptar rango e indicar si tenemos encabezados
+
+Trabajar con las tablas
+
+
+Parking Azul
+Local Verde
